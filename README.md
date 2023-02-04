@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sudsarkar13&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudsarkar13&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudsarkar13&theme=tokyonight&hide=batchfile">
 
-<break>
+<br>
+<br />
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/sudsarkar13)
 - [![GitHub followers](https://img.shields.io/github/followers/sudsarkar13.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sudsarkar13?tab=followers)
