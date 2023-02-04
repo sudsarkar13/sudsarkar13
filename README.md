@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sudsarkar13&theme=dracula&count_private=true"></div>
 
+<br>
+
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=sudsarkar13&show_icons=true&hide_border=true&theme=tokyonight"></div>
 
 <div align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudsarkar13&theme=tokyonight&hide=batchfile"></div>
