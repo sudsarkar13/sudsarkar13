@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 </p>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudsarkar13&" alt="sudsarkar13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudsarkar13&theme=tokyonight&" alt="sudsarkar13" /></p>
