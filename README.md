@@ -32,7 +32,8 @@ Here are some ideas to get you started:
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=sudsarkar13&show_icons=true&hide_border=true" />
   </a>
 </p> -->
-<p align ="right">
+<p>
+<!-- <p align ="right"> -->
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
