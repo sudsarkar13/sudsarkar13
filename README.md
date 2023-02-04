@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 - ![Profile views](https://gpvc.arturio.dev/sudsarkar13)
 - [![GitHub followers](https://img.shields.io/github/followers/sudsarkar13.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sudsarkar13?tab=followers)
 
-
-
 <p align = "center">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
