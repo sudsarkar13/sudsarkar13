@@ -1,64 +1,40 @@
-﻿### Hi there 👋
 
 
-**sudsarkar13/sudsarkar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sudeepta%20Sarkar%20🤠&text2=💖%20A%20Passionate%20Web%20Developer%20and%20UI/UX%20designer&width=900&height=400)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [My Portfolio](https://sudsarkar13.github.io/)
-
-- 🌱 I’m currently learning **sample**
-
-- 👯 I’m looking to collaborate on [sample](sample)
-
-- 🤝 I’m looking for help with [sample](sample)
-
-- 👨‍💻 All of my projects are available at [https://sudsarkar13.github.io/](https://sudsarkar13.github.io/)
-
-- 📝 I regularly write articles on [Sample](Sample)
-
-- 💬 Ask me about **sample**
-
-- 📫 How to reach me **sudeepta596@gmail.com**
-
-- 📄 Know about my experiences [https://sudsarkar13.github.io/](https://sudsarkar13.github.io/)
+<img height="auto" src="https://komarev.com/ghpvc/?username=sudsarkar13&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 
 
-
-**Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sudsarkar13&theme=tokyonight&count_private=true"></div>
-
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudsarkar13&show_icons=true&hide_border=true&theme=tokyonight"></div>
-<br>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudsarkar13&theme=tokyonight&hide=batchfile"></div>
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
 
 
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=sudsarkar13&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/sudsarkar13)
-- [![GitHub followers](https://img.shields.io/github/followers/sudsarkar13.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sudsarkar13?tab=followers)
+- [Lenovo dark grub 4k for ubuntu](https://github.com/sudsarkar13/Lenovo-dark-grub-4k-ubuntu)
 
-<p align = "center">
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br>
-</p>  
+- [Ultimate-Ubuntu-Setup-for-Web-Developers]()
 
-<br>
+- 🌱 I’m currently learning **Reactjs & Nextjs**
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudsarkar13&theme=tokyonight&" alt="sudsarkar13" /></p>
+- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+
+- 📫 How to reach me **sudsarkar13@gmail.com**
+
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/sudsarkar13" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/sudeepta.sarkar.589" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/sudee.ptasofficial" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.linux.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> </p>
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=sudsarkar13&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=sudsarkar13&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudsarkar13&theme=dark&hide_border=false" alt="profile-radme-generator" />
