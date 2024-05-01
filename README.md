@@ -3,7 +3,7 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sudeepta%20Sarkar%20🤠&text2=💖%20A%20Passionate%20Web%20Developer%20and%20UI/UX%20designer&width=900&height=400)
 
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=sudsarkar13&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) ![GitHub followers](https://img.shields.io/github/followers/sudsarkar13) 
 
 
 
