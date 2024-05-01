@@ -3,7 +3,7 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sudeepta%20Sarkar%20🤠&text2=💖%20A%20Passionate%20Web%20Developer%20and%20UI/UX%20designer&width=900&height=400)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) ![GitHub followers](https://img.shields.io/github/followers/sudsarkar13) 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=page.id) ![GitHub followers](https://img.shields.io/github/followers/sudsarkar13) 
 
 
 
