@@ -17,7 +17,7 @@
 
 - Created a shellscript tool for users to easily setup and automate their setup experience with few powerful tools: [Ultimate Ubuntu Setup for Web Developers](https://github.com/sudsarkar13/Ultimate-Ubuntu-Setup-for-Web-Developers)
 
-- It's where I showcase my experience, knowledge and skills: [Personal Portfolio](https://github.com/sudsarkar13/personal-portfolio)
+- It's where I showcase my experience, knowledge and skills: [Personal Portfolio](https://portfolio-sudeeptasarkar.vercel.app)
 
 - Currenly Working as SDE Intern in Dreach - Health Unity Solutions: [UI/UX Developer]()
 
